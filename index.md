@@ -10,3 +10,9 @@ I've made a Header ... just that
 ```python
 print('free Palestine!')
 ```
+
+---
+
+- [ ] this is the first item
+- [ ] the second item
+- [ ] the third item
